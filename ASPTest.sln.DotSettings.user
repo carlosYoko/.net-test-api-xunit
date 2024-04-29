@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8c54443b_002Df437_002D4990_002Da92f_002D9f459293eaf1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Get_Ok" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::52F90DAB-154F-49B4-BC40-A504B563757B::net8.0::ASPUnitTesting.BeerTesting.Get_Ok&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::52F90DAB-154F-49B4-BC40-A504B563757B::net8.0::ASPUnitTesting.BeerTesting.Get_Quantity&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::52F90DAB-154F-49B4-BC40-A504B563757B::net8.0::ASPUnitTesting.BeerTesting.GetById_Ok&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::52F90DAB-154F-49B4-BC40-A504B563757B::net8.0::ASPUnitTesting.BeerTesting.GetById_Exists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::52F90DAB-154F-49B4-BC40-A504B563757B::net8.0::ASPUnitTesting.BeerTesting.GetById_NotFound&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
